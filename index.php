@@ -7,11 +7,21 @@
 		<link rel="stylesheet" href="css/STYLEMATTERS.css" type="text/css" />
 
 		<!-- Custom Javascript -->
-		<script type="text/javascript src="js/scripts.js"></script>
-		<title>HTML SANBOX</title>
-	</head>
-	<body>
-		<H1> hAI! tHIS IS aN html PAIGe</H1>
+		<script type="text/javascript src="js/scripts.js"></head>
 
-	</body>
+		<title> HTML SANBOX </title>
+
+		</head>
+	<body>
+			<header> <h1> HTML SANDBO </h1> </header>
+		<h1> hAI! tHIS IS aN html PAIGe <h1>
+			<h2> ASDFASDFASDF </h2>
+			<p>sadfasdfasdfa</p>
+
+			<img src="images/9780354_orig.jpg" alt="sfw"/>
+
+		<main>
+
+			</main>
+		</body>
 </html>
